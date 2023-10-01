@@ -1,5 +1,5 @@
 let array1 = [15,30,45,60];
-let array2 = [5,6,3,10]
+let array2 = [5,6,3,10];
 
 
 let dividedResult = (array1, array2) => {
